@@ -4,3 +4,14 @@
     font-family: 'EB Garamond', serif;
     font-size:18px;
 }
+
+h1 {
+    font-size: 30px;
+    margin-bottom:25px;
+}
+
+.scenes {
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
