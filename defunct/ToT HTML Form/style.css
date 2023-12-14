@@ -63,17 +63,33 @@ font-size:18px;
 .journal {
     position:relative;
     height: 500px;
-    display:inline-block;
-    width:auto;
-    border:rgb(136, 111, 0) 2px solid;
-    justify-content:flex-start;
+    border: solid black 2px;
+    overflow:hidden;
+}
+
+.page-container {
+    position:absolute;
+    width:350px;
+    height: 500px;
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+}
+
+.page-container small {
+    align-items:flex-start;
+    height:50px;
+    width:30px;
+    opacity:1;
+    order:1;
+
 }
 
 .page {
     position:absolute;
-    width:350px;
-    height: 100%;
-    opacity: 0.02;
+    width:100%;
+    height:90%;
+    opacity: 0.05;
     transition: opacity 0.5s, transform 0.5s, z-index 0s 0.5s; /* Smooth transition for transform, delay for z-index */
     background: #feffe5;
     color: #564f03;
@@ -82,7 +98,16 @@ font-size:18px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     padding: 20px;
     box-sizing: border-box;
-  
+    display:flex;
+    flex-direction:column;
+}
+
+.page h5 {
+    flex:1;
+}
+
+.page p {
+    flex:9;
 }
 
 #page1 {
@@ -90,25 +115,29 @@ font-size:18px;
     left:20;
 }
 
+#pageNumber1 {
+
+
+}
+
+
 #page2 {
     z-index: 4; 
-    left:60px;}
+    left:50px;}
 
 #page3 {
     z-index: 3; 
-    left:100px;}
+    left:70px;}
 
 #page4 {
     z-index: 2; 
-    left:140px;
+    left:90px;
 }
 
 #page5 {
     z-index: 1; 
-    left:180px;
+    left:110px;
 }
-
-    
 
 
 .page:hover {
@@ -116,20 +145,5 @@ font-size:18px;
     z-index: 100; /* Brings the hovered page to the front */
 }
 
-.letterhead {
-    width:350px;
-    height:50px;
-    display:flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 
-.letterhead small {
-    position:relative;
-    height:10px;
-    width:30px;
-    opacity:1;
-    margin-right:30px;
-    margin-bottom:30px;
-}
 
