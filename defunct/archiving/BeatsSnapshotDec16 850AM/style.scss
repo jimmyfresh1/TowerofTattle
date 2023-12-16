@@ -20,9 +20,7 @@ body {
   font-size: 18px;
   }
 
-p:hover {
-    cursor: url(./images/pencil-edit.png) 4 32, auto;
-}
+
 
 #passage-paper {
     width: 960px;
@@ -87,18 +85,16 @@ p:hover {
             }
 
             .beat1{
-                margin: 0 0 0 0;
                 &:before {
                     content: "♪"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
                     // You can add more styling properties here
-
                 }
             }
             .beat2{
                 &:before {
-                    content: "♩  "; // Replace with your desired symbol
+                    content: "♩"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
                     // You can add more styling properties here
@@ -106,7 +102,7 @@ p:hover {
             }
             .beat3{
                 &:before {
-                    content: "𝅗𝅥    "; // Replace with your desired symbol
+                    content: "𝅗𝅥"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
                     // You can add more styling properties here
@@ -114,7 +110,7 @@ p:hover {
             }
             .rest1{
                 &:before {
-                    content: "𝄽 "; // Replace with your desired symbol
+                    content: "𝄽"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
                     // You can add more styling properties here
@@ -122,7 +118,7 @@ p:hover {
             }
             .rest2{
                 &:before {
-                    content: "𝄼    "; // Replace with your desired symbol
+                    content: "𝄼"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
                     // You can add more styling properties here
@@ -143,7 +139,7 @@ p:hover {
             }
         }
     }
-
+   
 
 
 
