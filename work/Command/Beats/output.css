@@ -22,6 +22,11 @@ p:hover {
   cursor: url(./images/pencil-edit.png) 4 32, auto;
 }
 
+#export-pdf {
+  height: 50px;
+  width: 50px;
+}
+
 .add-button {
   margin: 0 0 0 0;
   height: 25px;
@@ -133,6 +138,7 @@ p:hover {
   position: absolute;
   top: 0;
   left: 0;
+  display: flex;
 }
 #passage-paper header h1 {
   font-size: 60px;

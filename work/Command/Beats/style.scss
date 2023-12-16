@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 
 
+
 * {
 
     -webkit-box-sizing: border-box;
@@ -20,8 +21,14 @@ body {
   font-size: 18px;
   }
 
+
 p:hover {
     cursor: url(./images/pencil-edit.png) 4 32, auto;
+}
+
+#export-pdf {
+    height:50px;
+    width:50px;
 }
 
 // addButton is not in my html doc but is added in via javascript
@@ -148,6 +155,7 @@ p:hover {
         position: absolute;
         top: 0;
         left: 0;
+        display:flex;
 
         h1 {
             font-size: 60px;

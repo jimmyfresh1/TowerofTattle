@@ -14,7 +14,7 @@
 //         newLine.appendChild(createAddButton());
 //     }
 //     return addButton;
-
+// script.js
 
 // This is the complicated version which lets you make the different beats. 
 function createAddButton () {
@@ -177,3 +177,7 @@ paragraphs.forEach (notebookLine => {
     notebookLine.appendChild(createAddButton());
 });
 
+
+document.getElementById('print-pdf').addEventListener('click', () => {
+    window.print();
+  });
