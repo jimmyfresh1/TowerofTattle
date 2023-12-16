@@ -46,13 +46,30 @@ p:hover {
     }
 }
 
+.beat-options-container {
+    padding:0;
+    margin:0;
+    height:30px;
+    display:flex;
+    width:200px;
+
+}
+
+.beat-options-button {
+    
+    height:25px;
+    img {
+        height:20px;
+    }
+}
+
+
 .swing-button {
     margin:0 0 0 0;
-    height:70px;
-    width:35px;
     align-items:center;
     background-color: transparent;
     border: none;
+
 
     &:hover {
         cursor: url(./images/pencil-edit.png) 4 32, auto;
@@ -66,8 +83,6 @@ p:hover {
 
 .beat-button {
     margin:0 0 0 0;
-    height:25px;
-    width:25px;
     align-items:center;
     background-color: transparent;
     border: none;
@@ -84,8 +99,6 @@ p:hover {
 
 .admonition-button {
     margin:0 0 0 0;
-    height:25px;
-    width:25px;
     align-items:center;
     background-color: transparent;
     border: none;
