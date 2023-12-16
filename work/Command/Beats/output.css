@@ -22,6 +22,25 @@ p:hover {
   cursor: url(./images/pencil-edit.png) 4 32, auto;
 }
 
+.add-button {
+  margin: 0 0 0 0;
+  height: 25px;
+  width: 25px;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  opacity: 0;
+}
+.add-button:hover {
+  opacity: 1;
+  cursor: url(./images/pencil-edit.png) 4 32, auto;
+}
+.add-button img {
+  height: 20px;
+  width: 20px;
+  margin: 0 0 0 0;
+}
+
 #passage-paper {
   width: 960px;
   height: fit-content;
@@ -89,6 +108,9 @@ p:hover {
   content: "♩  ";
   color: #000;
 }
+#passage-paper #main-text .beat3 {
+  margin: 0 0 60px 0;
+}
 #passage-paper #main-text .beat3:before {
   content: "𝅗𝅥    ";
   color: #000;
@@ -96,6 +118,9 @@ p:hover {
 #passage-paper #main-text .rest1:before {
   content: "𝄽 ";
   color: #000;
+}
+#passage-paper #main-text .rest2 {
+  margin: 0 0 60px 0;
 }
 #passage-paper #main-text .rest2:before {
   content: "𝄼    ";
