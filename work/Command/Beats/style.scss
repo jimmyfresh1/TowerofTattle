@@ -122,14 +122,11 @@ p:hover {
 }
 
 
-canvas {
-    width:100%;
-    height:100%;
-  }
+
 
 #passage-paper {
     width: 960px;
-    height: fit-content;
+    height: 600px;
     background: linear-gradient(to bottom, white 29px, #00b0d7 1px);
     margin: 50px auto;
     background-size: 100% 30px;

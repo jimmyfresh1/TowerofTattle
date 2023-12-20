@@ -1,29 +1,18 @@
-import React, { useLayoutEffect, useState } from 'react';
 import rough from 'https://unpkg.com/roughjs/bundled/rough.esm.js';
 
-const App = () => {
-
-    useLayoutEffect (effect: () => {
-        const canvas = document.getElementById("canvas");
-        const ctx = canvas.getContext('2d');
-        ctx.fillStyle = 'green';
-        ctx.fillRect (x:10, y:10, w:150, h:150);
-    }
-
-    return (
-    <canvas id = "canvas" style ={{backgroundColor: 'blue'}}>Canvas </canvas>
-    );
-}; 
 
 
+const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext('2d');
+console.log("I'm here!")
+const generator = rough.generator();
+const rc = rough.canvas(canvas);
+ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-// console.log("I'm here!")
-// const generator = rough.generator();
-// const rc = rough.canvas(canvas);
-// const rect = generator.rectangle(10, 10, 200, 100);
-// const line = generator.line(10, 10, 210, 110);
-// rc.draw(rect);
-// rc.draw(line);
+const rect = generator.rectangle(10, 10, 200, 100);
+const line = generator.line(10, 10, 210, 110);
+rc.draw(rect);
+rc.draw(line);
 
 ctx.lineWidth=2
 
@@ -35,7 +24,7 @@ let startY;
 
 window.addEventListener("mousedown", (e) => {
     isPainting = true
-    startX=e.clientX;
+    startX=e.clientX ;
     startY=e.clientY;
 });
 
