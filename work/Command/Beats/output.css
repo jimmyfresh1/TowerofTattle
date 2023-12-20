@@ -147,17 +147,23 @@ p:hover {
   line-height: 60px;
   padding: 50px 20px 0 160px;
 }
+#passage-paper #canvas {
+  position: absolute;
+}
 #passage-paper #main-text {
+  position: absolute;
   margin-top: 67px;
   font-size: 20px;
   line-height: 30px;
   word-wrap: break-word;
+  z-index: 100;
 }
 #passage-paper #main-text p {
   margin: 0 0 30px 0;
 }
 #passage-paper #main-text .swing {
   color: red;
+  background-color: rgba(255, 255, 255, 0.233);
   font-weight: bold;
   font-size: 30px;
   text-decoration: underline;
@@ -167,21 +173,27 @@ p:hover {
 }
 #passage-paper #main-text .beat1 {
   margin: 0 0 0 0;
+  background-color: rgba(255, 255, 255, 0.233);
 }
 #passage-paper #main-text .beat1:before {
   content: "♪";
   color: #000;
 }
 #passage-paper #main-text .beat2:before {
+  background-color: rgba(255, 255, 255, 0.233);
   content: "♩  ";
   color: #000;
 }
 #passage-paper #main-text .beat3 {
+  background-color: rgba(255, 255, 255, 0.233);
   margin: 0 0 60px 0;
 }
 #passage-paper #main-text .beat3:before {
   content: "𝅗𝅥    ";
   color: #000;
+}
+#passage-paper #main-text .rest1 {
+  background-color: rgba(255, 255, 255, 0.233);
 }
 #passage-paper #main-text .rest1:before {
   content: "𝄽 ";
@@ -189,6 +201,7 @@ p:hover {
 }
 #passage-paper #main-text .rest2 {
   margin: 0 0 60px 0;
+  background-color: rgba(255, 255, 255, 0.233);
 }
 #passage-paper #main-text .rest2:before {
   content: "𝄼    ";

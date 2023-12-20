@@ -164,12 +164,16 @@ p:hover {
             padding: 50px 20px 0 160px;
         }
     }
-
+    #canvas {
+        position:absolute;
+    }
     #main-text {
+        position:absolute;
         margin-top: 67px;
         font-size: 20px;
         line-height: 30px;
         word-wrap:break-word;
+        z-index:100;
 
             p {
                 margin: 0 0 30px 0;
@@ -179,6 +183,7 @@ p:hover {
 
             .swing {
                 color:red;
+                background-color:rgba(255, 255, 255, 0.233);
                 font-weight:bold;
                 font-size:30px;
                 text-decoration:underline;
@@ -190,6 +195,7 @@ p:hover {
 
             .beat1{
                 margin: 0 0 0 0;
+                background-color:rgba(255, 255, 255, 0.233);
                 &:before {
                     content: "♪"; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
@@ -200,6 +206,7 @@ p:hover {
             }
             .beat2{
                 &:before {
+                    background-color:rgba(255, 255, 255, 0.233);
                     content: "♩  "; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
                     color: #000; // Example color
@@ -207,6 +214,7 @@ p:hover {
                 }
             }
             .beat3{
+                background-color:rgba(255, 255, 255, 0.233);
                 margin: 0 0 60px 0;
                 &:before {
                     content: "𝅗𝅥    "; // Replace with your desired symbol
@@ -216,6 +224,7 @@ p:hover {
                 }
             }
             .rest1{
+                background-color:rgba(255, 255, 255, 0.233);
                 &:before {
                     content: "𝄽 "; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed
@@ -225,6 +234,7 @@ p:hover {
             }
             .rest2{
                 margin: 0 0 60px 0;
+                background-color:rgba(255, 255, 255, 0.233);
                 &:before {
                     content: "𝄼    "; // Replace with your desired symbol
                     // Additional styling for the symbol, if needed

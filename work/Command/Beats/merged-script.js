@@ -15,9 +15,17 @@ pTags.forEach (notebookLine => {
     notebookLine.appendChild(createButton('add-button', './images/add.png'));
 });
 
+const existingSpans = document.querySelectorAll ('#main-text span')
+existingSpans.forEach (insideContent=> {
+    console.log('I am doing my job')
+    insideContent.setAttribute ('contenteditable', 'true');
+})
+
 function buttonPress (){
     let button= this;
-    if (button.classList.contains('add-button'))
+    if (drawMode === true)
+    {return}
+    else if (button.classList.contains('add-button'))
     {
         console.log("I'm here! Super here!")
         lineContainer = createLineType ()
@@ -127,6 +135,74 @@ function createLine (lineClass, button){
 }
 
 
+const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext('2d');
+ctx.lineWidth=2
+let isPainting = false; 
+let lineWidth=2;
+let startX;
+let startY;
+var drawMode=false;
+console.log(drawMode)
+
+
+function drawToggle(element){
+    if (element.innerText==='DrawModeOn'){
+        element.innerText = "DrawModeOff";
+        drawMode=false;
+        console.log(drawMode)
+        existingSpans.forEach (insideContent=> {
+            console.log('Thank you for leaving me alone!')
+            insideContent.setAttribute ('contenteditable', 'true');
+        })
+}
+    else if (element.innerText === 'DrawModeOff'){
+        element.innerText ="DrawModeOn";
+        drawMode=true;
+        console.log(drawMode)
+        // buttons.forEach( button => {
+        //     button.removeEventListener('click')
+        // })
+        existingSpans.forEach (insideContent=> {
+            console.log('I am trying to do my job!')
+            insideContent.setAttribute ('contenteditable', 'false');
+    })
+}
+}
+
+
+
+
+canvas.addEventListener("mousedown", (e) => {
+    if (drawMode===true){
+    const rect = e.target.getBoundingClientRect();
+    isPainting = true
+    ctx.beginPath;
+    ctx.moveTo(e.clientX-rect.left, e.clientY-rect.top)
+}
+    // startX=e.clientX -rect.left;
+    // startY=e.clientY -rect.top;
+});
+
+const draw = (e) => {
+    if(!isPainting){
+        return;
+    }
+
+    const rect = e.target.getBoundingClientRect();
+    ctx.lineWidth=lineWidth;
+    ctx.lineTo(e.clientX-rect.left, e.clientY-rect.top)
+    ctx.stroke();
+
+canvas.addEventListener("mouseup", (e) => {
+isPainting = false
+ctx.stroke();
+ctx.beginPath;
+});
+
+
+}
+canvas.addEventListener ("mousemove", draw); 
 
 
 
