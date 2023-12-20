@@ -204,6 +204,9 @@ ctx.beginPath;
 }
 canvas.addEventListener ("mousemove", draw); 
 
+document.getElementById('print-pdf').addEventListener('click', () => {
+    window.print();
+    });
 
 
 //defunct 
