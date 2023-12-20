@@ -7,25 +7,25 @@
     <link rel="stylesheet" href="output.css">
 </head>
 <body>
+        <div id="react-root">
         <div id="passage-paper">
             <header>
                 <h1 contenteditable="true">The Wave Speech</h1>
                 <button id="print-pdf">Print to PDF</button>
             </header>
-            <div id="main-text">
-            <p class="admonition"><span contenteditable="true">Save often! Still in progress!</span></p>
-            <p class="swing"><span contenteditable="true">Click here to edit</span></p>
-            <p class = "beat2"><span contenteditable="true">Click here to edit</span></p>
-            <p class = "beat1"><span contenteditable="true">Click here to edit</span></p>
-            <p class="beat3"><span contenteditable="true">Click here to edit</span></p>
-            <p class="rest1"><span contenteditable="true">Click here to edit</span></p>
-            <p class="rest2"><span contenteditable="true">Click here to edit</span></p>
-            <script src="script.js"> <button id="export-pdf">Export to PDF</button></script>
-            </div>
+            <canvas id="canvas">
+                <div id="main-text">
+                <p class="admonition"><span contenteditable="true">Save often! Still in progress!</span></p>
+                <p class="swing"><span contenteditable="true">Click here to edit</span></p>
+                <p class = "beat2"><span contenteditable="true">Click here to edit</span></p>
+                <p class = "beat1"><span contenteditable="true">Click here to edit</span></p>
+                <p class="beat3"><span contenteditable="true">Click here to edit</span></p>
+                <p class="rest1"><span contenteditable="true">Click here to edit</span></p>
+                <p class="rest2"><span contenteditable="true">Click here to edit</span></p>
+                </div>
+            </canvas>
         </div>
-        
-
-        
+        <script type = "module" src="canvasScriptWorkshop.js"> <button id="export-pdf">Export to PDF</button></script>
     </div>
 </body>
 </html>

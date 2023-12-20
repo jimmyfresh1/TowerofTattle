@@ -192,6 +192,8 @@ function createAddButton () {
         return addButton;
 }
 
+
+
 const paragraphs = document.querySelectorAll('#main-text p');
 paragraphs.forEach (notebookLine => {
         notebookLine.appendChild(createAddButton());

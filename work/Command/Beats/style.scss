@@ -7,7 +7,8 @@
 
 
 * {
-
+    margin: 0;
+    padding: 0;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -20,6 +21,7 @@ body {
   font-family: 'EB Garamond', serif;
   font-size: 18px;
   }
+
 
 
 p:hover {
@@ -62,11 +64,10 @@ p:hover {
 
 }
 
-.beat-options-button {
-    
+.beat-button-1, .beat-button-2, .beat-button-3, .rest-button-1, .rest-button-2 {
     height:25px;
     img {
-        height:20px;
+        height:25px;
     }
 }
 
@@ -121,7 +122,10 @@ p:hover {
 }
 
 
-
+canvas {
+    width:100%;
+    height:100%;
+  }
 
 #passage-paper {
     width: 960px;
