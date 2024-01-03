@@ -1,0 +1,27 @@
+
+                <header>
+                    <h1 contenteditable="true">Episode 05 Alphonse and Monika</h1>
+
+                </header>
+                <div id="buttons">
+                    <button id="print-pdf">Print to PDF</button>
+                    <button onclick="drawToggle(this)" id="drawModeToggle">DrawModeOff</button>
+                    <button onclick="saveState()" id="save">Save</button>
+                    <button onclick="loadState()" id="load">Load</button>
+                    <button onclick="exportState()" id="export">Export</button>
+                    <input type="file" id="importJson" style="display: none;">
+                    <button id="importButton">Import JSON</button>
+                </div>
+                <canvas id="canvas" width="960" height="600"> </canvas>
+                <div id="main-text">
+                    
+                    <p class="swing"><span contenteditable="true">1. Mekuru, Shiori meet Alexa</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="swing"><span contenteditable="true">2. Alexa shows she's an assistant. Tells them date and time.</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="swing"><span contenteditable="true">3. Monika comes barging in.&nbsp; With Alphonse.</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="beat2"><span contenteditable="true">And what does she do at home? Alphonse growled. She sits alone. I'd say she's in better company here.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">Yeah? Tell the sheriff about it.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">Touch her and I will, Alphonse growled.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="beat1"><span contenteditable="true">Shiori dabbed at her eyes a bit.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="beat3"><span contenteditable="true">Click here to edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="swing"><span contenteditable="true">4. The seance. Which takes place... idk. Out in the forest. As creepy seances do.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="admonition"><span contenteditable="true">Utilize the séance to emphasize how the town was suspicious of Shiori.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="admonition"><span contenteditable="true">Establish that Shiori and Mekuru get slightly pulled into their former selves.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="admonition"><span contenteditable="true">Creepy things in seance like... I'm not sure.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="swing"><span contenteditable="true">?. At some point, Alexa comes in to shut things down.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="rest1"><span contenteditable="true">Click here to edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="rest2"><span contenteditable="true">Click here to edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                </div>
+
+                
+            
