@@ -99,6 +99,7 @@ ASP-c-Mekuru I feel sort of uncomfortable with how she says it. Not in a "danger
 ASP-eGarden Perhaps Hanari dresses a bit more licentiously, leading Shiori to bluntly call her a nut gobbler. "Shiori I am begging you to learn how to self filter..." 
 -cont: I am self filtering, though?
 ASP-c-Mekuru-Shiori Raid the study. Mekuru's heart starts racing as if she's really just a kid.  
+ASP-eStudy-desc: A bunch of 90s stuff. Like Alex's Lake House. 
 
 ASP-c-Mekuru-Shiori: They actually find his glasses in the study. 
 ASP-c-Alexa: Alexa makes them wash their hands. 
@@ -136,6 +137,7 @@ ASP-eSeance Soothsayer story. Alphonse tells the story of a sailor who could see
 
 
 ASP-c-Alphonse "Shiori, did ya' know I escaped from Guantanimo Bay?" "Really?!"
+ASP-c-Mekuru-obsv The town is... diverse? Diverse is an understatement. Maybe I'm just short right now, but one of those fishermen looks like he's 20 feet. 
 
 //!! The Seance
 
