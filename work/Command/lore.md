@@ -2,7 +2,7 @@
 //CONTENTDIVIDER Section detailing very very very distilled exigence
 Alexa Netabare's plan for revenge, the yokes of the Netabare family, and the wish to reach The Origin all form the underpinning of the story.  
 
-Arcani Netabare is the patriarch and founder of the Netabare family. He founded the family after apparently meeting Sophia in a dream. There he is struck by the words that will stay with him all his life. From whence we came. To wither we are headed. Creatio ex nihilo, and reductio ad nihilum.Convinced that the path to The Root was by heightening one's senses, so that they could hear the universe speaking back its secret knowledge, he begins the Netabare family's magus tradition. Over time, he begins developing Sussurokawa Cove, with the help of Constructor Felix Waechner. He creates a secluded community, which hides its real identity from the world. The lighthouse is somehow implicated in this, but I don't think it really needs to be explained to readers. 
+Arcani Netabare is the patriarch and founder of the Netabare family. He founded the family after apparently meeting Sophia in a dream. There he is struck by the words that will stay with him all his life. From whence we came. To wither we are headed. Creatio ex nihilo, and reductio ad nihilum. Convinced that the path to The Root is by heightening one's senses, so that they could hear the universe speaking back its secret knowledge, he begins the Netabare family's magus tradition. Over time, he begins developing Sussurokawa Cove, with the help of Constructor Felix Waechner. He creates a secluded community, which hides its real identity from the world. The lighthouse is somehow implicated in this, but I don't think it really needs to be explained to readers. 
 //CONTENTDIVIDER Section detailing what Sussurokawa Cove is, or rather what the Netabare family is. It also details the family dynamics of the Kazoku Kaobu
 The community is created largely through kidnapping, coercion, and promises of power and prestige. Those with strong potential to be a magus are kidnapped, though children are their prime targets. Another choice target are mythical creatures that can be bred for special traits. By the start of the mediumpast of the story, there have been generations and generations of those within the community, many not even allowed to leave. This would include Muto and Prima. Muto and prima were born there. Hence, some children like Alexa, Clarie, and Kyrie were born in the community. Hana was also born in the community, and is even Arcani's direct daughter. Nick is newly kidnapped. The multitude of ways one can "integrate" into the community does create a hierarchy within it. 
 
@@ -276,37 +276,4 @@ Mekuru eats the apple and "falls" into The Tower. For a long time, she isn't eve
 As a tower "powered" by secrets, Waechner's Vault also produces them like an oil refinery produces oil. Waechner's Vault gains infamy among mages, which attracts Shiori to it. Waechner "hires" Shiori as a magus to go to the tower, so that Helicches' name can be retrieved.
 
 And this is where the story begins. 
-
-//CONTENTDIVIDER THIS PART DIVIDES PARTS OF THE STORY I'VE ALREADY WRITTEN].
-
-Though this is worth filling out itself, right now it's a lower value task than getting a Part VI Treatment done finally.
-
-//CONTENTDIVIDER THIS PART DIVIDES PARTS OF THE STORY I'VE ALREADY WRITTEN].
-
-In episode 01, we have the campfire scene. In the campfire scene, Shiori explains that murders happened, the town disappeared, and that Prima Pagetta came back.
-
-In episode 02, we have the forest walk. In the forest, Mekuru begins to have some of her memories come back. They sit down to a view of The Lighthouse, and Shiori talks about The Root for a little bit.
-
-In episode 03, a telltail snitch leads them to Alexa's Hideout. There, they find Girl X's first journal. Girl X's journal talks about how she's hiding away in that cave. This is also where they encounter The Codex Sussurokawa, which contains that journal. Mekuru continues feeling a little alienated from Shiori. It's at this point, they hear someone coming. It's Alexa, or Mekuru's mother, though the reader doesn't know yet. Mekuru observes her and gives a description. Chapter ends with the cliffhanger: Mekuru, it's your mom! 
-
-In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, and Mekuru and Alexa have a mother daughter squabble. Shiori does cute Shiori things, and Alexa pulls her cheeks apart. Mekuru gets really emotional about it, knowing that Alexa is an NPC (she's not, but they thnik that she is.) Alexa tells them to go to the house and wash up. At the house, Shiori and Mekuru find Mekuru's diary. Cute princes entry. 
-
-TTS COUNT: 2.
-
-))]))
-
-
-Shiori and Mekuru walk through the forest and come upon the lighthouse spot. They see the lighthouse. Shiori starts to get swept by nostalgia, though Mekuru herself feels a bit alienated. Shiori is experiencing Mabe Village, while Mekuru is experiencing Silent Hill. 
-
-
-Yeah. Let's open up with Alexa. 
-
-
-
-//ADMONITION It makes more sense emotionally and thematically to head with Alexa, and then to do Alphonse shortly after. Alexa should be "higher" than Alphonse. Also Alphonse should care not about the lighthouse spot, but the town view spot, the Hallstat view. Also, as far as an NPC "sneaking up" on them. It makes more sense for it to be Alexa, instead of Alphonse. Also I can do the eyes glazing over thing with Alphonse in the scene after. Shiori being like... hmm... I mean it works here. Mekuru is upset that she doesn't even remember her mother's name. I can't even have that?
-
-
-
-
-
 
