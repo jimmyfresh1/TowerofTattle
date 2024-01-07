@@ -162,3 +162,32 @@ font-size:18px;
     margin-bottom:30px;
 }
 
+.tome {
+    position:relative;
+    height: 350px;
+    display:inline-block;
+    width:auto;
+    border:rgb(134, 134, 134) 2px solid;
+    justify-content:flex-start;
+}
+
+.tomeslab {
+    position:absolute;
+    width:500px;
+    height: 100%;
+    opacity: 0.02;
+    transition: opacity 0.5s, transform 0.5s, z-index 0s 0.5s; /* Smooth transition for transform, delay for z-index */
+    background: #feffe5;
+    color: #564f03;
+    margin: 0 auto 25px;
+    border: 1px solid black; /* Style as you like */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    padding: 20px;
+    box-sizing: border-box;
+  
+}
+
+.tomeslab:hover {
+    opacity: 1;
+    z-index: 100; /* Brings the hovered page to the front */
+}

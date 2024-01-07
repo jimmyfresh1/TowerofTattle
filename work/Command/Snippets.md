@@ -35,9 +35,6 @@ Sometimes the first truly adult emotion someone learns is hate.
 
                         <p>"Don't sweat it," I say, though I'm the one sweating it. I don't know how much more I can stand the taste of my own foot in my mouth. Why, oh why, do I have to be such an incorrigible tryhard? </p>
 
-                            <p>Honestly, walking back through the woods at night with kids isn't exactly safe in the first place, but I'm remembering Al wasn't ever someone you'd call 'prudent' when it came to childcare. With Monika being the way she is, Al was always the closest thing Shiori had to a real guardian. And when it came to the 'guard' part, he really wasn't much of one, because he seemed to think children are as invincible as they're energetic.</p>
-
-        <p>I remember one time that Shiori convinced me that we should try to sail down one of the Rumeuri Hill creeks in a pool float, and Al just stroked his beard and said it was a 'mighty fine adventure for tiny sailors.' We ended up getting thrown into some bushes when the float popped against some banks. My mom was really furious, and I couldn't play with Shiori for a week. It might've been even longer if Al hadn't come to my house and apologized over and over.</p>
 
 
         ---
