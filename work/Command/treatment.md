@@ -40,7 +40,7 @@ In episode 03, a telltail snitch leads them to Alexa's Hideout. There, they find
 In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, and Mekuru and Alexa have a mother daughter squabble. Shiori does cute Shiori things, and Alexa pulls her cheeks apart. Mekuru gets really emotional about it, knowing that Alexa is an NPC (she's not, but they thnik that she is.) Alexa tells them to go to the house and wash up. At the house, Shiori and Mekuru find Mekuru's diary. Cute princes entry. Mekuru slams it shut.
 
 
-//ADMONITION Don't forget Waechner. 
+//ADMONITION Don't forget Waechner.  Though probably he comes in Part VII
 //ADMONITION Don't forget the World of Darkness and the World of Light
 //ADMONITION ASP-Creatio Ex Nihilo, World of Light, World of Dark, consumere est coniungi, 
 //ADMONITION Prima, Monika, and Muto respectively represent different town perspectives. Prima is a silly holistic medicine woman Wiccan bordering on cultist. Monika is a schizo conspiracy theorist. Muto is normal.
@@ -56,111 +56,44 @@ In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, 
 //Episode Seance. 
 
 
-//!! Episode 05 The Codex Assistant 
-
-In episode 5, Alexa introduces herself, but this time as the assistant to The Codex Sussurokawa. ✓
-Nx-e5 she shows them that it's one week before the first murder.✓
--cont: Alphonse and Monika come in. ✓
--cont: Alexa suddenly disappears✓
--cont-Alphonse: Hoo boy, I'm sorry to bring this lady around like this, but she insisted. ✓
--cont-Alphonse: Why, if it isn't lil' Shiori! ✓
-ASP-c-Alphonse: What's the name of your friend, Shiori? ✓
-ASP-c-Shiori: His name's Yorick!✓
-ASP-sn-Shiori'sJournal //TTSAcquisition Shiori 1. Talks about heading to a new place. I'm tired of going away from place to place. ✓
-ASP-c-Alphonse-Shiori "Little Shiori," he said with a big smile. "You dropped your magic show pamphlet at my place." ✓
-
-Near-Shiori-Alphonse Memories come flooding back. That Shiori was left to her own devices, and Alphonse was the closest thing she had to a guardian here, and you couldn't call him much of one. One time she convinced me that we should try to ride down stream in a raft. 'Not scared of water back then." My mom was furious.
 
 
 
 
-
-//!! Sub-episode: The Creepy Peach.
-
-ASP-c-Alphonse. Now you all wait a moment. I will lay down for a good minute. ✓
-LOCUS: The Creepy Peach. He lives in The Creepy Peach with Hana. It's apparently because Hana wants to take care of him. But everyone knows it's kinda the other way around. ✓
-ASP-c-Hana Introduce Hana.✓
--cont: Hana comes in. What are you girls doing here? ✓
--cont: - Why, you two are smelling wonderful today!✓
-ASP-c-Shiori-Hana Shiori sees Hanari in breeches. "She's a horsegirl," Shiori whispered✓
 ASP-c-Shiori-Hana "G-goodness," Shiori says, a twelve year old trying to talk like an aristocrat. Umm... verily. 
-ASP-eSeanceThe first Consumere Est Coniungi beat is at Hana's place. This one emphasizes copulation, coitus.✓
-ASP-eSeance Hana's thirstiness can be an aid here. This can also be the first hint of the town's bizarre makeup.✓
-ASP-sn-Belladonna We can reveal that very early on using Belladonna's Journal. I think it's highly appropriate. Introducing the idea of lineage and genetics.✓
+ASP-eSeanceThe first Consumere Est Coniungi beat is at Hana's place. This one emphasizes copulation, coitus.
+
+
+
 ASP-c-Hana Hana talked about running away sometimes with Nick. But why? From what? Nick isn't sure logically, but emotionally he gets it.
-ASP-c-Hana Yandere Hana to Nick. Hmm. You haven't been having a little amouerrete have you? Almost like she's sniffing Nick.✓
-ASP-c-Nick: Actually, Nick can be introduced this episode. ✓
-ASP-c-Nick: Nick actually delivers some meals. ✓
-ASP-c-Hana: This place needs more kids. ✓
-ASP-c-Mekuru I feel sort of uncomfortable with how she says it. Not in a "danger and suspicion" way. More in a "I feel bad for whoever ends up dating her" way. ✓
 
 
-//!! Sub-episode: The Creepy Peach-study
-ASP-eGarden Perhaps Hanari dresses a bit more licentiously, leading Shiori to bluntly call her a nut gobbler. "Shiori I am begging you to learn how to self filter..." ✓
--cont: I am self filtering, though?✓
-ASP-c-Mekuru-Shiori Raid the study. Mekuru's heart starts racing as if she's really just a kid.  ✗
+
 ASP-eStudy-desc: A bunch of 90s stuff. Like Alex's Lake House. 
 
 ASP-c-Mekuru-Shiori: They actually find his glasses in the study. 
 ASP-c-Alexa: Alexa makes them wash their hands. 
 -cont: Never hurts to be safe, children!
-ASP-Mekuru-Shiori: They both realize that the sound of rustling paper is a sign of a TTS being nearby. ✓
-ASP-sn-Apocryphon //TTSItem Stock photos of missing children. ✓
-ASP-sn-Apocryphon //TTSAcquisition Netabare 1.✓
-ASP-react-Netabare 1: It's kinda simpy... Sophia, the love of Arcani's life. ✓
-ASP-c-Mekuru-Shiori-muse: What's the relation of this place to the Netabares? ✓
-//TTSAcquisition Mekuru 2. What item? Oh it's a book about financial management. ✓
-ASP-c-Mekuru Oh! I know this one! I used to read this one all the time.✓
-ASP-c-Shiori Really? She says dubiously.✓
-ASP-c-Mekuru I open it up... //made up excerpt// "Yeah, I totally get that."// "Explain it then." // "No," I snap. "What am I, a monkey?" // ✓"Sorry," Shiori says sadly. // I'm sweating because I did not actually understand a lick of that. "Hm? What's this?"// Speaking of budgeting, ✓here's an order sheet? For ether? //TTSAcquisition Belladonna 1. ✓
-ASP-sn-react-Belladonna1 Don't you think this is a little too coincidental? ✓
-ASP-react-sn-Belladonna Belladonna? Wow. Just wow.✓
-ASP-c-Shiori Shiori doesn't seem happy about it either. But she's thinking. "It doesn't quite make sense, though..."// "I mean I hate to say it, but it's hard to argue with. Who else do we know with a great sense of smell?" "No, that's the thing," Shiori says sounding a little confused. "Hannah's sense of smell is awful." ✓
 
 
-//!! Sub-episode: The Creepy Peach-meal
-ASP-c-Shiori-Mekuru-Clarie- Nick-Hana Nick and Hannah are will they won't they. Shiori: I always thought they were dating! Mekuru: Huh? Definitely not. They're not dating. I just <em>heard them say</em> they're not dating. // That's what people who are dating say! //No. No it really isn't.  //!! LATER: Nick: It's... complicated. 
 
--cont: Shiori: Wow, that smells really good.//It really does.//You don't smell it? ✗
+
 ASP-c-Mekuru I look at Shiori like, can we actually eat this? Shiori looks back at me like, wow, free food!
 ASP-c-Hana Talks about children and their dreams and so forth. She keeps talking about children and children's dreams in a bit of a new agey way. //!! Hana is a Judas lamb, so she is also the best insight as to what the children were like in the past. 
-ASP-c-Nick Hannah, I cannot believe we are talking about children when we're not even dating.
-ASP-c-Hannah "Fine, you brute!"// Arghhh! Hannah, come on! Nick glances at us.// I put at the door. "Al's with us. Come on Nick. Don't be a dope." Nick groans and runs out, continuing our little soap opera. And I feel my heart twinge painfully. Shiori's just as quiet. 
 
 
-//!! Passage AlphonseForest
-
-ASP-c-Alphonse Alphonse likes crossword puzzles. He chuckled. You think sailors are dumb? I've been all over the world. When? Shiori asked. Hell if I remember. I'll tell you this. We've got just about the worst sand in the world. Oh? Where's the best sand in the world? The Florida panhandle. But that doesn't mean you should ever go to Florida. Never! Shiori said.
--cont: They walk down to town, from The Creepy Peach. 
-
-ASP-eSeance Soothsayer story. Alphonse tells the story of a sailor who could see the future and no wave could crash him. One day he looked to the future and saw himself unharmed on calm waters. You wanna know what happened? He starved!
 
 
-ASP-c-Alphonse "Shiori, did ya' know I escaped from Guantanimo Bay?" "Really?!"
-ASP-c-Mekuru-obsv The town is... diverse? Diverse is an understatement. Maybe I'm just short right now, but one of those fishermen looks like he's 20 feet. 
 
 //!! The Seance
 
 ASP-epitaph: Sophia. 
 ASP-intro-Kaobu. 
-ASP-eSeance The seance takes place in the courthouse.
-ASP-e5 Alphonse takes Shiori and Mekuru to the seance.
-ASP-e5 Monika does a cold reading bit with Shiori. The reader is introduced to the idea that both Shiori and Mekuru are partially pulled emotionally into the original events. 
+
 ASP-e5 Alexa comes in, angry, because Monika is cold reading Mekuru.
 
-ASP-c-Shiori "It's not a magic show! It's a ritual!"
-ASP-intro-KiraKiri
-ASP-c-Monika-Shiori: Those hands! Do you feel the tremors of the heart?
-ASP-c-Shiori: "I don't want to be here anymore..."
-ASP-c-Monika: Makes the declaration of what's going to happen. YOU! 
-ASP-c-Monika: (points at Alphonse) You have little time left. You of the eye. 
--cont-Alphonse: Alphonse only guffaws in response. 
--cont-Monika: All of you <em>on Rumeuri Hill. </em>
--cont-Monika: (hones in on Mekuru)
--cont-Alexa: "Don't you dare touch her."
--cont-Monika: 'The Oracle who had no problem antagonizing everyone else seemed to freeze."
--cont-Alexa: "No. Of course we won't unmask you. But we will clean this place up and ask you to leave. And question you about your rabble rousing."
--cont-Monika: "Seriously?"
+
+
 
 ASP-c-Alexa: I'm stopping this.
 -cont: Tyrant!
@@ -262,7 +195,7 @@ ASP-eGarden Hana's sniffing out his wallet... Shiori gaped.
 -cont: Alexa leads them to something important like the family statue. It's in the drawing room. 
 -cont: Consumarre Est Coniungi. 
 -cont: //TTSAcquisition Unlock a Belladonna 1Probably bleeding cone.
--cont: "Dammit!" // Shiori gasps, "you can't say that Mu!" // Ugh. This is the worst. //It's kinda like the mu. You could say it was like you're your mom's purpose, Shiori says trying to be bright and optimistic.
+<!-- -cont: "Dammit!" // Shiori gasps, "you can't say that Mu!" // Ugh. This is the worst. //It's kinda like the mu. You could say it was like you're your mom's purpose, Shiori says trying to be bright and optimistic. -->
 
 
 
@@ -343,7 +276,7 @@ ASP-eu "...And she just happened to also be part of a cult." "No, no, it's more 
 ASP-eu "Just a couple of... loveless waifs." 
 ASP-c-Mekuru-Shiori-Nick "The maddest she got was the time we tried to cook a perpetual stew..." "Hey! Stop adding the maple syrup! Now we're gonna have to add like eight spoons of salt!" "We could open a restaurant here!" "No. No way. This place doesn't have the economy for it. We'd have to move to the big city and do it." Alexa hopping mad. Forces them to eat it.
 ASP-m "We're doing a perpetual stew! I've got chocolate." "You know what? Keep to your side of the stew." a memory mekuru has. that corresponds to her taste being enhanced. 
-ASP-e5,e6 "Thinking back, so many times my mom seemed to look more bewildered than anything. It was like the only thing in the world she wasn't great at was being a mom. Like she avoided it sometimes because she didn't like not being the best at something."
+
 
 //!! Alexa
 ASP-m-Alexa-Alphonse "For a moment I can't see. Then it's like a blindfold is taken off my face."
@@ -371,21 +304,20 @@ ASP-c-Alexa-TTS //TTSAcquisition Final TTS of Part VI is THE DOOR IS OPEN. Which
 
 
 //!! Shiori
-ASP-PVI Have to do Mekuru-Shiori arc stuff. Probably right before garden party. After Shiori brings a bunch of stuff back. 
+<!-- ASP-PVI Have to do Mekuru-Shiori arc stuff. Probably right before garden party. After Shiori brings a bunch of stuff back.  -->
 ASP-eu Shiori explains the "grand prank" aspect of rituals. "...well, I'm not saying it's FUNNY."
 -cont: This kind of thing is well documented actually. It's like different hands in mahjong. They all win, but some give you more points.
 ASP-c-Shiori-post-ClarieDeath Shiori has a very public display of magic power, which makes everyone incredibly suspicious. 
-ASP-c-Shiori We're closer to their core. Who they are. Sometimes you feel something more than your own name.
+<!-- ASP-c-Shiori We're closer to their core. Who they are. Sometimes you feel something more than your own name. -->
 ASP-c-Shiori Shiori makes inappropriate baby factory joke? Honestly, yes, probably at some point it's gotta happen
-ASP-c-Shiori "You know, at some point... you have to learn that people die," Shiori said quietly. "Everyone knows people die. But no one knows it from the start." 
-ASP-c-Shiori Both Alexa and Arcani have gray eyes, or gunslinger eyes. Pow pow! Shiori makes a joke.
-ASP-c-Mekuru-Shiori Mekuru and Shiori were changing hands a lot. 
+ASP-c-Shiori-post-Al-and-Hannah "You know, at some point... you have to learn that people die," Shiori said quietly. "Everyone knows people die. But no one knows it from the start." 
+<!-- ASP-c-Shiori Both Alexa and Arcani have gray eyes, or gunslinger eyes. Pow pow! Shiori makes a joke. -->
+<!-- ASP-c-Mekuru-Shiori Mekuru and Shiori were changing hands a lot.  -->
 ASP-c-Shiori A telltail snitch and vannaknoe are picking at each other. "Shouldn't they be friends?" "Yeah... frenemies, more like. They both think the other is really shameless." Immediately followed by journal beat of Shiori and Mekuru being shameless and acting like a vannaknoe and telltail snitch respectively. 
 ASP-c-Shiori Shiori expresses preternaturalness as separate from supernatural
-ASP-react-TTS-Netabare2 //TTSCONTENT So like Cotton Eyed Joe? Shiori asks. 
+
 ASP-u I love you, Mekuru!' Shiori chirped (in caesar cipher, but Mekuru hyperfocusing doesn't notice. You too Yorick! Y belu oek Cuakhk! Oek jee Oehysa!)
-ASP-PVI Shiori is seen playing with Novelites. 
-ASP-sn-Shiori3 //TTSContent Shiori talking about playing with Novelites. 
+
 ASP-c-Mekuru You're telling me you went around chirping 'creatio ex nihilo' and 'reductio ad nihilum?!' I wanted to strangle my client
 ASP-c-Shiori Some people try to worship Shiori
 ASP-c-Mekuru-eu Ah. I get it. It's the reasonable ones who are the most disgusting. When Ithought of witch hunts, I thought of belligerent screaming people. But now I realize the worst ones act like they're concerned. Everything sounds nice until you realize they think their mild manners justifies executing a young girl to save their skin. I hate their quietly demurring voices
