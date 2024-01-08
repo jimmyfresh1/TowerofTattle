@@ -219,7 +219,8 @@ ASP-locus-lighthouse: Hm? This fresnel lens is weird. It's like it's producing..
 
 //Episode Unsorted
 
-
+ASP-plot-A magician's secret. One of the greatest secrets. 
+ASP-c-Shiori or... like a magic trick.  (EP 10)
 
 ASP-sn-Apocryphon //TTSCONTENT  Ontogeny recapitulates cosmogeny. 
 ASP-sn-Apocryphon //TTSCONTENT "There's a point of creation. One thing becomes two. If you want to reverse it, two becomes one."
@@ -257,6 +258,8 @@ ASP-e-Trial Alexa takes on swagger like Jim Jagger, a lawyer throwing words and 
 ASP-sn-Kyrie Kyrie forces //TTSCONTENT Alexa to go to therapy with her and Mekuru, which makes Alexa chafe. Alexa finds it hilarious and ironic and is in complete contempt of her
 
 
+ASP-c-Nick Did he sound like he was hypnotized? No. He sounded like he was acting very badly. 
+ASP-c-Shiori Shiori expresses preternaturalness as separate from supernatural
 
 
 
@@ -312,6 +315,7 @@ ASP-c-Nick Nick is always talking about dishes and flavor profiles. Bitter like 
 -cont-Shiori: Shiori realizes it but keeps quietly eating while tearing up terribly. Mekuru sighs then takes a bite then nearly throws up.
 ASP-c-Nick When Alexa becomes pregnant, her personality subtly shifts. She "mellows out" according to everyone else. In fact, Alexa cries multiple times during her pregnancy, showing more emotion than anyone had ever seen of her. ("Even my mother has hormones," Mekuru says coldly)
 ASP-c-Nick  Nick, having a pretty good read on people: "Was she really doing her best for me? Can't say I think so. Still, I always got the sense I was one of the few people she could stand. Your mom's got her reasons. "To have you killed?" Nick gave a long a hard look like he'd eaten something sour. "This town's... different Mekuru. I don't expect you to get it. A kid shouldn't have to."
+ASP-c-Nick Your mom's pretty good at everything, honestly. 
 
 ASP-c-Nick The Crecer family technically owns the farm. Well. More than a few people think I'm cozying up to her because I want to own it. You ever run a farm? It sucks. 
 
