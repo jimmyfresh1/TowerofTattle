@@ -1,0 +1,27 @@
+
+                <header>
+                    <h1 contenteditable="true">Episode 09</h1>
+
+                </header>
+                <div id="buttons">
+                    <button id="print-pdf">Print to PDF</button>
+                    <button onclick="drawToggle(this)" id="drawModeToggle">DrawModeOff</button>
+                    <button onclick="saveState()" id="save">Save</button>
+                    <button onclick="loadState()" id="load">Load</button>
+                    <button onclick="exportState()" id="export">Export</button>
+                    <input type="file" id="importJson" style="display: none;">
+                    <button id="importButton">Import JSON</button>
+                </div>
+                <canvas id="canvas" width="960" height="600"> </canvas>
+                <div id="main-text">
+                    
+                    <p class="swing"><span contenteditable="true">TTS</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    <p class="beat2"><span contenteditable="true">Shiori also has a sick feeling</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">However, interrupted by The Codex.// Two snitches fly out. They rip a page out, which seems to wriggle in distress. They peck at it over and over till it imprints.</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">Netabare 2.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">World of Dark. World of Light.&nbsp;</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">Click to Edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p><p class="beat2"><span contenteditable="true">Click to Edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    
+                    
+                    <p class="rest1"><span contenteditable="true">Click here to edit</span><button class="add-button"><img src="./images/add.png"></button><button class="minus-button"><img src="./images/MINUS.png"></button></p>
+                    
+                </div>
+
+                
+            

@@ -46,8 +46,14 @@ In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, 
 //ADMONITION Prima, Monika, and Muto respectively represent different town perspectives. Prima is a silly holistic medicine woman Wiccan bordering on cultist. Monika is a schizo conspiracy theorist. Muto is normal.
 //ADMONITION Sussurokawa has a weird crazy amount of diversity. At the very end, as the magic wears off, everyone starts displaying chimera traits.
 //ADMONITION Don't forget to get the importance of apples across.
-//ADMONITION Don't forget to emphasize the theme of secrets. And the irony of almost seeming like there are none. 
-//ADMONITION The total mystery has so many aspects, that you should endeavor to make each little mystery "a little more obvious than usual." Such as Monika being The Oracle. 
+
+
+//TTSContent Girl X talks about the apples.
+//TTSContent Heiress talks about the apples.
+//TTSContent Belladonna talks about the apples.
+//TTSContent First ciphered. Girl X 1. The games? Girl X 3 perhaps.
+
+
 
 
 
@@ -60,7 +66,7 @@ In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, 
 
 
 
-ASP-c-Shiori-Hana "G-goodness," Shiori says, a twelve year old trying to talk like an aristocrat. Umm... verily. 
+
 ASP-eSeanceThe first Consumere Est Coniungi beat is at Hana's place. This one emphasizes copulation, coitus.
 
 
@@ -69,7 +75,6 @@ ASP-c-Hana Hana talked about running away sometimes with Nick. But why? From wha
 
 
 
-ASP-eStudy-desc: A bunch of 90s stuff. Like Alex's Lake House. 
 
 ASP-c-Mekuru-Shiori: They actually find his glasses in the study. 
 ASP-c-Alexa: Alexa makes them wash their hands. 
@@ -85,62 +90,19 @@ ASP-c-Hana Talks about children and their dreams and so forth. She keeps talking
 
 
 
-//!! The Seance
-
-ASP-epitaph: Sophia. 
-ASP-intro-Kaobu. 
-
-ASP-e5 Alexa comes in, angry, because Monika is cold reading Mekuru.
 
 
 
 
-ASP-c-Alexa: I'm stopping this.
--cont: Tyrant!
--cont: Soccer mom!
-
-ASP-c-Alphonse-Alexa Now Lessia, I think it's unfair to blame me for not realizing an event being held in our very courthouse was going to turn out like this.
-ASP-c-Alexa Sure, Al. I'm convinced. Now say that to Shiori. 
-ASP-c-Alphonse groans knowing she's absolutely right. 
-
-ASP-c-Alexa: "What were you thinking being there?"
--cont-Alphonse: "I'm sorry. I thought it was just... some kind of magic show." 
--cont-Mekuru: "Maybe if you'd been paying attention, you would've caught us."
--cont-Alexa: "Maybe you're right..." she muttered. 
--cont-Mekuru: I didn't expect that. And as we rode in the car back, everything silent, Shiori sleeping with her head rested against Alphonse, I realized it hurt more that she said that. 
 
 
-ASP-intro-c-Muto 
-ASP-intro-c-Prima "Say that you won't participate in this stupid game."
-
-ASP-c-Mekuru-e5 Mekuru can't also help but be pulled into childishness. Now we're sitting there eating a big bowl of cereal. 
-
-ASP-c-mob "I've seen her. The woman in the fog. Kirakiri." 
--cont: Shiori is uncomfortable
+ASP-relocate? Chiraoscuro churrasco? Shiori asked, her stomach growling
 
 
-ASP-e5 They're going to drop off Shiori at Monika's place. It's dark and empty. She's probably off fooling around at the bar, Alexa tsked.
--cont-Alexa: We can wait here until she's back.
--cont-Shiori: Pl-lease... I don't...
--cont-Alexa: (gives in) I guess until the garden party... Monika'll be there, too. 
--cont-Shiori: (runs in to grab her things)
--cont-Alexa: Mekuru. I want you to tell me you won't be participating in these things anymore.
--cont-Mekuru: Are you kidding me? Of course, I won't.
--cont-Alexa: Say it.
--cont-Mekuru: Huh?
--cont-Alexa: Say 
-
-ASP-c-Shiori: Comes back with a floppy disk. 
-ASP-c-Mekuru: Where the heck are we gonna find a computer? I've only seen one in my life. It's in my mom's office and I don't really want to...
+//Episode Nick's Store
+Post-Garden Party. This is a good place to talk about the beginning effects on all of the people. 
 
 
-ASP-e5 And don't call me Lessie. don't act familiar with me. Alexa literally only does this with Muto and Prima. I've cleared out the bushes Lessie, the gardener said. Oh, thank you!
-ASP-e5 Lessie's such a weird name, don't you think? It's like Lassie!
-
-ASP-eSeance "Say you won't participate in this stupid game.' Alexa becomes actually quite vicious with Prima. This is confusing to everyone else who do not know why. For some reason Muto, her husban sits by and watches with his arms crossed. he does nto seem like the type of man to take that sort of thing lying down. he doens't respond though. later:"I'm a man who listens to his gut. Sometimes... you know... that you deserve something." 
--cont: Muto, what comeuppance could you possibly deserve and why?
-
-ASP-eSeanc-relocate? Chiraoscuro churrasco? Shiori asked, her stomach growling
 
 
 //Episode Garden
@@ -221,6 +183,12 @@ ASP-PVI Monika herself leaves the note that she's gone somewhere else
 ASP-c-Nick-pre-Trial There's something in the water! You're all drinking water bottles. I suppose you're gonna say that there's a huge conspiracy going on with Aquifina?
 ASP-eTrial Nick truthfully testifies he saw a woman disappear into mist. "On that sunny day?" "I saw what I saw. " He tried to chase her but she disappeared.
 ASP-c-mob-Shiori crazy Cultist tries to kill Shiori, and her powers flare up and hurt him
+ASP-desc The small jail can't have more than 4 or 5 cells. 
+ASP-desc That cell is... unfortunately the safest place for her right now. 
+Don't reveal till part 7 that Muto faked being attacked by Shiori. 
+ASP-c-Shiori "Why would... Muto say that about me?"
+
+
 
 
 
@@ -305,8 +273,7 @@ ASP-c-Alexa-TTS //TTSAcquisition Final TTS of Part VI is THE DOOR IS OPEN. Which
 
 //!! Shiori
 <!-- ASP-PVI Have to do Mekuru-Shiori arc stuff. Probably right before garden party. After Shiori brings a bunch of stuff back.  -->
-ASP-eu Shiori explains the "grand prank" aspect of rituals. "...well, I'm not saying it's FUNNY."
--cont: This kind of thing is well documented actually. It's like different hands in mahjong. They all win, but some give you more points.
+
 ASP-c-Shiori-post-ClarieDeath Shiori has a very public display of magic power, which makes everyone incredibly suspicious. 
 <!-- ASP-c-Shiori We're closer to their core. Who they are. Sometimes you feel something more than your own name. -->
 ASP-c-Shiori Shiori makes inappropriate baby factory joke? Honestly, yes, probably at some point it's gotta happen
@@ -314,11 +281,11 @@ ASP-c-Shiori-post-Al-and-Hannah "You know, at some point... you have to learn th
 <!-- ASP-c-Shiori Both Alexa and Arcani have gray eyes, or gunslinger eyes. Pow pow! Shiori makes a joke. -->
 <!-- ASP-c-Mekuru-Shiori Mekuru and Shiori were changing hands a lot.  -->
 ASP-c-Shiori A telltail snitch and vannaknoe are picking at each other. "Shouldn't they be friends?" "Yeah... frenemies, more like. They both think the other is really shameless." Immediately followed by journal beat of Shiori and Mekuru being shameless and acting like a vannaknoe and telltail snitch respectively. 
-ASP-c-Shiori Shiori expresses preternaturalness as separate from supernatural
+
 
 ASP-u I love you, Mekuru!' Shiori chirped (in caesar cipher, but Mekuru hyperfocusing doesn't notice. You too Yorick! Y belu oek Cuakhk! Oek jee Oehysa!)
 
-ASP-c-Mekuru You're telling me you went around chirping 'creatio ex nihilo' and 'reductio ad nihilum?!' I wanted to strangle my client
+
 ASP-c-Shiori Some people try to worship Shiori
 ASP-c-Mekuru-eu Ah. I get it. It's the reasonable ones who are the most disgusting. When Ithought of witch hunts, I thought of belligerent screaming people. But now I realize the worst ones act like they're concerned. Everything sounds nice until you realize they think their mild manners justifies executing a young girl to save their skin. I hate their quietly demurring voices
 
@@ -346,7 +313,11 @@ ASP-c-Nick Nick is always talking about dishes and flavor profiles. Bitter like 
 ASP-c-Nick When Alexa becomes pregnant, her personality subtly shifts. She "mellows out" according to everyone else. In fact, Alexa cries multiple times during her pregnancy, showing more emotion than anyone had ever seen of her. ("Even my mother has hormones," Mekuru says coldly)
 ASP-c-Nick  Nick, having a pretty good read on people: "Was she really doing her best for me? Can't say I think so. Still, I always got the sense I was one of the few people she could stand. Your mom's got her reasons. "To have you killed?" Nick gave a long a hard look like he'd eaten something sour. "This town's... different Mekuru. I don't expect you to get it. A kid shouldn't have to."
 
+ASP-c-Nick The Crecer family technically owns the farm. Well. More than a few people think I'm cozying up to her because I want to own it. You ever run a farm? It sucks. 
 
+Candy effects. This one tastes like I'm being tickled!
+Ouch. That one kind of zaps you... 
+Woah! I feel really smart right now!
 
 
 //!! Alphonse and Hana 
