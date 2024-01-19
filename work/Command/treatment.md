@@ -82,8 +82,6 @@ ASP-c-Alexa: Alexa makes them wash their hands.
 
 
 
-
-ASP-c-Mekuru I look at Shiori like, can we actually eat this? Shiori looks back at me like, wow, free food!
 ASP-c-Hana Talks about children and their dreams and so forth. She keeps talking about children and children's dreams in a bit of a new agey way. //!! Hana is a Judas lamb, so she is also the best insight as to what the children were like in the past. 
 
 
@@ -105,58 +103,6 @@ Post-Garden Party. This is a good place to talk about the beginning effects on a
 
 
 
-//Episode Garden
-
-ASP-c-Alphonse Alphonse talks about all kinds of junk scams. They're learning new tricks. Hand written.
-ASP-reveal 
-
-
-ASP-eGarden Um. Why are we hiding from your mom?// Because we didn't dress up for the party. // Ok? She's an NPC.
--cont: //Then you go up to her. Go on. // Er, I don't feel like it!" Shiori said rubbing her ears. //Still, I just don't feel like we're doing anything useful...
--cont: Ugh. My mom got stupidly dressed for this. She put on some really tacky red lipstick... //Mekuru, this is a waste of time. You're using toy binoculars!// 
--cont: We don't have time for this! Shiori stamped her foot. "We have to recover your 'self'! Everything else is just a sideshow! Shiori snapped. Or at least as much as Shiori could snap. "You're... You're right. I'm getting caught up."
--cont: N...no... you're right. I'm paying attention to stupid stuff. But I just... This can be useful. //But looking at them isn't going to matter if we can't even hear them.
--cont: I can hear them. Barely.//All the way from here?//Yeah... just almost.//Hi//Eeek! Shiori and I jump in unison.
--cont: Clarie pops up. //Cl...Clarie?//I always remembered her as someone like Boo Radley. I guess when this party was going on, she was hanging out in the actual house?
--cont: Why aren't you with adults? Hookie? Fight with mom?//Er... There's pretty much no way to explain, 'we're trying to solve a murder, and a few days from now you're one of the victims!'
--cont: We're shy and want to know more about Hanari.//Why not ask?//We're nosy kids. Can't ask some things of a lady. Or they'll hit you.//Hana doesn't hit. She's kind. And gentle.//No, no! She totally does! Totally!
--cont: Must have said something insensitive like you always do. Shiori lines.//I just said she had a pretty name! Because she's pretty just like a flower!//And then?
--cont: And that Hannah was the name of a Biblical lady who really wanted Biblical kids. And that Hana's baby clock is ticking and she sniffed out Nick as the only good match for miles, so it was like, you know, romantic!
--cont: Even I wanted to hit her for that one.//Uhuh. Story checks out. Good karate chop on head for that one, deserved.//It still hurt though..//You're eavesdropping?//Calm down. Breathe in. Stop trying to shut out the ambient noise.
--cont: Scene describing Mekuru's hearing improving, whispers in the air, making her shudder.//
--cont: I can't believe you're actually making cider from that orchard. You've always been such a pain about it just because you hate apples!
--cont: Nick you ugly bastard! Stop stringing her along.
--cont: Ahhh... Hana, if only you were my actual daughter!
--cont: I'm telling you. There were children. They all disappeared. They would've been your age by now, he growled. 
--cont: Ok pops, what about us? They must have thought you were ugly like sin.
--cont: They disappeared into the Earth like the Pied Piper!//Last time you said they were whisked away to the ocean, Nick groans. 
--cont: I have picture evidence! // I know what it looks like, pops, but it's <em>digitally edited.</em>// That is not possible. Comptuers can't do that sort of thing. 
-
-
-
-ASP-eGarden Hana's sniffing out his wallet... Shiori gaped.
--cont: Hana should just find someone else from outside the town, I said, my brain trying to forget that was a totally meaningless prospect.
--cont: And how's Nick feel?//Not repulsed. But a little weirded out. When we were toddlers, she babysat us pretty sure. Can't remember too well.
--cont: Are you serious? She's a dinosaur.//Clarie frowns. "She was only a teenager. Not that bad age difference."//A teenaged dinosaur.//If you want to know more about her, come with.
--cont: You learn a lot looking at someone's art.The two of us were transfixed. We'd never seen anything like it. It was...Awful.
--cont: "Mm. Not great. Al's got an eye for great art, but no heart to say she's no Picasso. Nick's too cowardly to mention her complete lack of taste. Kyrie won't say it gives her the heeby jeebies." 
--cont: "And you?" "Don't like to hear cutting words. Won't say them." "Mom's honest, though." "Your mother is often mean. White noise." 
--cont: She's right, but somehow I don't like how bluntly she said it.
--cont: Mekuru can't help herself and she turns her ears on more powerfully. Clarie kindly shuts her ears. 'It's ok. you don't have to.'
-
-
--cont: It looks like The Scream... oh my god, is that Nick? I... actually am not sure. // Look, he's screaming, just like the Munch painting!
--cont: No. In the Munch Painting, it's a common misconception. He's not screaming himself. He hears it. Screaming.//...who? Whose scream? Who's... screaming? "...nature. Nature's infinite scream."
--cont: "Actually, based on the sky's strange color and the time of the pai-"//"Some hackfrauds think the scream is Krakatoa exploding. Silly. Needlessly impoverishes the piece. No imagination." 
--cont: Shiori falls silent and simply puffs up her cheeks while squeezing Yorick to her chest.//...sorry. Said too much. Sometimes my tongue's still sharp. "Oh, Shiori always pouts."
--cont: "No, to you. Said too much about your mother.// "I don't care. Say what you want about her."//No. You looked sad.
--cont: Mekuru relates to the Infinite Scream. Even right now, she feels like...// I should... go. Be good.//Clarie goes back.
--cont: Now Alexa pops up. 
--cont: Ahhh! Where do you even come from?! Where were you?
--cont: I got lost in a book, she said sadly.
--cont: Alexa leads them to something important like the family statue. It's in the drawing room. 
--cont: Consumarre Est Coniungi. 
--cont: //TTSAcquisition Unlock a Belladonna 1Probably bleeding cone.
 <!-- -cont: "Dammit!" // Shiori gasps, "you can't say that Mu!" // Ugh. This is the worst. //It's kinda like the mu. You could say it was like you're your mom's purpose, Shiori says trying to be bright and optimistic. -->
 
 
@@ -245,6 +191,15 @@ ASP-eu "...And she just happened to also be part of a cult." "No, no, it's more 
 ASP-eu "Just a couple of... loveless waifs." 
 ASP-c-Mekuru-Shiori-Nick "The maddest she got was the time we tried to cook a perpetual stew..." "Hey! Stop adding the maple syrup! Now we're gonna have to add like eight spoons of salt!" "We could open a restaurant here!" "No. No way. This place doesn't have the economy for it. We'd have to move to the big city and do it." Alexa hopping mad. Forces them to eat it.
 ASP-m "We're doing a perpetual stew! I've got chocolate." "You know what? Keep to your side of the stew." a memory mekuru has. that corresponds to her taste being enhanced. 
+ASP-c-Shiori "Of course! The Codex is just one big vannaknoe!"
+ASP-c-Shiori Of course they wouldn't be friends? Shiori says quizzically. Vannaknoes are a telltail snitch's number one predator. 
+ASP-u At some point Mekuru's memories are gated by The Codex eating snitches hidden by vannaknoes. It's sort of like a big fish eating a small fish.
+LORE-revise Hannah explicitly set "all the children free." Aka, all those under a certain age. 
+-cont: Arcani ate (and made Hannah) eat Eris out of some weird form of respect. 
+-cont: Arcani ate his own brother. 
+-cont: Eris managed the games.
+
+
 
 
 //!! Alexa
@@ -352,6 +307,9 @@ ASP-c-Muto Are you telling me you woke up this morning and decided to wear a gor
 
 //Episode PVII 
 
+
+
+ASP-PVII-c GIANT MOVING STATUE Solo Leveling 
 ASP-PVII-c-Monika Monika immolates herself performing the silly sulfur trick, so her body is discovered right by when screaming is heard
 ASP-PVII They shift unsteadily while waiting for the fire to catch. the picture comes into view. Ah... it's a weird hearth... Almost like... a cupid's bow. A gag of flame and a collar of ash. It's already decapitated. They actively notice this worm like protrusion in the area of you-know-where.Four arms hold the sphere up like pillars on the next level. Then three legs. Oh... oh... ? It's the aristophanes human. Well, they're spheres with four arms and four legs. It was meant to be a joke. I don't get it. Me neither. Well, where's the fourth leg? Then they see the giant snake worm penis.
 
@@ -403,3 +361,8 @@ ASP-PVIII Mekuru learns the trick that she can keep bugging Alexa to say a red t
 ASP-PVIII Alexa is stunned when Mekuru says that Shiori is gone. The one thing she hadn't expected was for anyone to be able to find their way out. that means they overcame some kind of escape barrier. 
 ASP-Ending Mekuru barely... Barely hears Shiori's voice across the void. Shiori feels her presence. 
 
+ASP-PVII Making the statues crumble in order 
+ASP-PVIII
+Doll house for murder staging 
+Shadows of children?
+Shadows of the Kaobu?

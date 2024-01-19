@@ -158,3 +158,24 @@ Sometimes the first truly adult emotion someone learns is hate.
 <p>Okay, so what are you doing here? Come to let the plot slip?" </p>
 
 <p>"I'd say you two have a handle where the story's headed already. It's not gonna help anybody to just spoil everything, is it?" Alexa sits 
+
+                <p>In truth, you'd usually be able to catch two or three from that group together. But all at once was pretty rare. And all at once, <em>right before they got murdered</em> is just too insane of a coincidence to ignore. </p>
+
+
+                <div class="journal">
+<div class="page" id="page1">
+        <div class="letterhead">
+            <h3>Maya's Book of Secret Recipes</h3>
+            <small>1</small>
+        </div>
+        For those who wish to live long and healthy lives, my variant on paella. 
+
+
+        <br><br>
+        Made with long noodles instead of short grains of rice, and vibrant, vivacious koi instead of snapper. Then there's one more secret ingredient that ensures the longevity that magi so highly prize. A meal that means forever. What's the secret ingredient? My lips are sealed. If I tell you, that'll lessen the effect! 
+        
+        <br><br>
+        The secret of magic cooking is that secrets make the magic stronger! And the more curious you are, the better. So think about it yourself! You'll have to look beyond what's skin deep. Someone said it was silky hair? No! Celty hair? Well, kind of...
+
+    </div>
+</div>
