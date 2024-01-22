@@ -91,6 +91,29 @@ font-family: 'EB Garamond', serif;
 font-size:18px;
 }
 
+p.fading{
+margin: 15px;
+font-family: 'EB Garamond', serif;
+font-size:10px;
+}
+
+p.fading2{
+    margin: 10px;
+    font-family: 'EB Garamond', serif;
+    font-size:8px;
+    }
+    
+    #tinyquote {
+        font-size:4px;
+        font-family: 'Indie Flower', cursive;
+        background-color:rgb(255, 255, 255);
+        color:rgb(0, 0, 0);
+        width:40vw;
+        height: 4px;
+        display:flex;
+        flex-direction:column;
+        margin-bottom:15px;
+    }
 
 .journal {
     position:relative;
