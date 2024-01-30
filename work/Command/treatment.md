@@ -59,46 +59,13 @@ In episode 04, they talk to her mom. Alexa acts a bit weird, and seems shocked, 
 
 
 
-//Episode Seance. 
-
-
-
-
-
-
-
-ASP-eSeanceThe first Consumere Est Coniungi beat is at Hana's place. This one emphasizes copulation, coitus.
-
-
-
 ASP-c-Hana Hana talked about running away sometimes with Nick. But why? From what? Nick isn't sure logically, but emotionally he gets it.
-
-
-
-
-ASP-c-Mekuru-Shiori: They actually find his glasses in the study. 
-ASP-c-Alexa: Alexa makes them wash their hands. 
--cont: Never hurts to be safe, children!
-
-
-
-ASP-c-Hana Talks about children and their dreams and so forth. She keeps talking about children and children's dreams in a bit of a new agey way. //!! Hana is a Judas lamb, so she is also the best insight as to what the children were like in the past. 
-
-
-
-
-
-
-
 
 
 
 
 ASP-relocate? Chiraoscuro churrasco? Shiori asked, her stomach growling
 
-
-//Episode Nick's Store
-Post-Garden Party. This is a good place to talk about the beginning effects on all of the people. 
 
 
 
@@ -111,12 +78,6 @@ Post-Garden Party. This is a good place to talk about the beginning effects on a
 
 ASP-m-Hana Mekuru sees a vision of a young girl being forced to eat a dish while crying. An unseen figure is glowering over her
 
-
-
-
-
-//Episode MURDER 1. Flash forward.
-//ADMONITION Honestly, for convenience, this makes the most sense. Basically, Alphonse and Hana -> Murder 1 -> Nick, and also Town History ->Trial -> Kyrie and Clarie -> Murder 3 -> Marina Scene -> To The Lighthouse. 
 
 
 
@@ -187,10 +148,7 @@ ASP-eu Telltail snitches like their sunshine. They want everything out in the op
 ASP-eu Of course a corpse is disgusting. The sight of it makes me want to throw up. But my emotions...
 I don't want her to know I'm a freak whose emotions are dying.
 ASP-eu "But how did you even know I was here? In Waechner's Vault?" I ask.// "D-don't you mean the Tower of Tattle?" she asks me.  // "...sure," I say, more than slightly aware that something about being back here seems to be affecting my apparent 'innocence.'
-ASP-eu "...And she just happened to also be part of a cult." "No, no, it's more like all the cults are kinda connected. Especially those Gnostic ones like the Freemasons and the Netabares, you know. Like, I've got this cousin thrice removed who's part of The El Los IIlluminados in LA. They're super scary. Oh! OH! This one time, they got these two guys from Brazil and just locked them up in these masks and -" 
-ASP-eu "Just a couple of... loveless waifs." 
-ASP-c-Mekuru-Shiori-Nick "The maddest she got was the time we tried to cook a perpetual stew..." "Hey! Stop adding the maple syrup! Now we're gonna have to add like eight spoons of salt!" "We could open a restaurant here!" "No. No way. This place doesn't have the economy for it. We'd have to move to the big city and do it." Alexa hopping mad. Forces them to eat it.
-ASP-m "We're doing a perpetual stew! I've got chocolate." "You know what? Keep to your side of the stew." a memory mekuru has. that corresponds to her taste being enhanced. 
+
 ASP-c-Shiori "Of course! The Codex is just one big vannaknoe!"
 ASP-c-Shiori Of course they wouldn't be friends? Shiori says quizzically. Vannaknoes are a telltail snitch's number one predator. 
 ASP-u At some point Mekuru's memories are gated by The Codex eating snitches hidden by vannaknoes. It's sort of like a big fish eating a small fish.
@@ -251,33 +209,17 @@ ASP-c-Mekuru-eu Ah. I get it. It's the reasonable ones who are the most disgusti
 
 
 //!! Nick 
-ASP-c-Nick Shiori and Mekuru eating candy cutely while Nick scratches his head.
-ASP-c-Nick looked a little uncomfortable. This isn't a topic for kids. But somehow it seems we can bully him into talking with his NPC behavior. His eyes glaze over a bit, and he sounds a bit like a recording, feeling suddenly very mannequinish. I guess they really are pliable after all.
-ASP-c-Nick The second consumere est coniungi is during nick's scene somewhere. another statue or something is observed. here, consumere as eating is emphasized.
-ASP-c-Nick Mental disease (like Hinamazawa Syndrome) runs through the area. Maybe it's the mist that's always floating on through. I don't know. I really hope... you kids can just get out of here. People go nuts around here. We've got a lot of nutjobs. That's why Kyrie's made it her mission to raise this place out of superstition, to help people with their mental illness. I'd say it's valiant but futile. Lately more and more people are showing symptoms.
-ASP-c-Nick There's... some kind of disease that runs through these parts. My mother... decided to ... end her life at one point. "I'm so sorry..." "No," Nick scratched his cheek. "It's not a fun story, but life goes on. You have to keep going. You just have to. But... it's not a story for kids to hear. I never wanted you guys to hear it. Clarie and Kyrie's father..." "And Hana's mother...?" "No, we... we don't know what happened to her. She disappeared one day. I guess we're all... hoping she just up and left. Hana's never been able to deal with it since. Al took her in as if she was his daughter."
-ASP-c-Nick You know my mom had a secret recipe book... She... well. She burned it, and ... let's just say she intentionally isn't here with us anymore. 
-ASP-c-Nick Schmutzdecke.
-ASP-c-Nick-Hana Rotting flowers. Rotting roses. Softly rotting. Quietly rotting. This is Nick's perception of Hanari after the tragic incident.
-ASP-c-Nick Are we dating? No. But I do love her. 
--cont: Shiori gasped. "You love her? You want to marry her?"
--cont: "Shh! For god's sake, if she heard you say that..." // "Hana... needs to get better before we can date. Maybe I sound crazy but. I believe it." // "It wouldn't help her. She doesn't need a boyfriend. She doesn't need a husband. She doesn't need a child. She needs a friend."
--cont: "You're a really good guy, Nick." // "Uhuh. I like you Nick. That's why everyone likes you except Al." // "So even kids notice it?" 
-ASP-c-Nick-Alexa She would say things like ‘Oh, are we having a nice day?’ but it didn’t sound like she cared—it was sarcastic and derisive.” But then she mellowed out."
-ASP-c-Shiori-Nick  "I wanna churn butter!" Nick seemed relieved with the conversation change. 
-ASP-c-Nick There are natural springs around here. That said, we did put filters, yes.
-ASP-c-Nick Nick is always talking about dishes and flavor profiles. Bitter like poison huh? Nick is always thoughtful.Accidentally switched sandwiches with Shiori. Oh... That has horse radish.
--cont-Shiori: Shiori realizes it but keeps quietly eating while tearing up terribly. Mekuru sighs then takes a bite then nearly throws up.
-ASP-c-Nick When Alexa becomes pregnant, her personality subtly shifts. She "mellows out" according to everyone else. In fact, Alexa cries multiple times during her pregnancy, showing more emotion than anyone had ever seen of her. ("Even my mother has hormones," Mekuru says coldly)
-ASP-c-Nick  Nick, having a pretty good read on people: "Was she really doing her best for me? Can't say I think so. Still, I always got the sense I was one of the few people she could stand. Your mom's got her reasons. "To have you killed?" Nick gave a long a hard look like he'd eaten something sour. "This town's... different Mekuru. I don't expect you to get it. A kid shouldn't have to."
-ASP-c-Nick Your mom's pretty good at everything, honestly. 
 
-ASP-c-Nick The Crecer family technically owns the farm. Well. More than a few people think I'm cozying up to her because I want to own it. You ever run a farm? It sucks. 
+                        ASP-c-Nick Nick is always talking about dishes and flavor profiles. Bitter like poison huh? Nick is always thoughtful.Accidentally switched sandwiches with Shiori. Oh... That has horse radish.
+                        -cont-Shiori: Shiori realizes it but keeps quietly eating while tearing up terribly. Mekuru sighs then takes a bite then nearly throws up.
+                        ASP-c-Nick When Alexa becomes pregnant, her personality subtly shifts. She "mellows out" according to everyone else. In fact, Alexa cries multiple times during her pregnancy, showing more emotion than anyone had ever seen of her. ("Even my mother has hormones," Mekuru says coldly)
+                        ASP-c-Nick  Nick, having a pretty good read on people: "Was she really doing her best for me? Can't say I think so. Still, I always got the sense I was one of the few people she could stand. Your mom's got her reasons. "To have you killed?" Nick gave a long a hard look like he'd eaten something sour. "This town's... different Mekuru. I don't expect you to get it. A kid shouldn't have to."
+                        ASP-c-Nick Your mom's pretty good at everything, honestly. 
 
-Candy effects. This one tastes like I'm being tickled!
-Ouch. That one kind of zaps you... 
-Woah! I feel really smart right now!
+                                                ASP-c-Nick-Alexa She would say things like ‘Oh, are we having a nice day?’ but it didn’t sound like she cared—it was sarcastic and derisive.” But then she mellowed out."
 
+                        
+                        ASP-c-Nick The Crecer family technically owns the farm. Well. More than a few people think I'm cozying up to her because I want to own it. You ever run a farm? It sucks. 
 
 //!! Alphonse and Hana 
 
@@ -366,3 +308,5 @@ ASP-PVIII
 Doll house for murder staging 
 Shadows of children?
 Shadows of the Kaobu?
+
+//!! Doubt

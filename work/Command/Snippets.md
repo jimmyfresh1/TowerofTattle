@@ -179,3 +179,29 @@ Sometimes the first truly adult emotion someone learns is hate.
 
     </div>
 </div>
+
+                <p>Besides it looking like Monika's handwriting, it reads like the kind of dumb bull she'd write too. Only someone as worthless as her would blame everything on the kid like that. Like, she'll up and leave and she can't resist getting in one last emotional slap.</p>
+
+                <p>Thankfully, Shiori doesn't care what Monika says as long as she's out of the room. It's just that it makes <em>me</em> mad.</p>
+
+
+"We've never sold generic because no one ever buys it. We weren't prepared for something like this, and we were this close to paying for it. You know how long your mom dressed me down for that? Man... just... man."</p>
+
+                <p>He's so tired he's starting to stop censoring himself.</p>
+
+                <p>"She's a real witch sometimes, isn't she?" I say.</p>
+                <p>Somehow, Shiori looks a little uncomfortable when I talk so bluntly about my mom. Honestly, <em>I</em> feel a little uncomfortable when I talk so bluntly about my mom. But blame it on the revertigo, because I can't help myself. I live, I breathe, and it just slips out when I'm not thinking about.</p>
+
+                        <P>Nick... Nick, meanwhile, looks like he's having trouble picking his words. </P>
+
+                <p>".Your mom works hard for the rest of us, you know," Nick starts, and I start feeling that petulant shame welling up. </p>
+
+                <p>"Y-yeah, I know. I'm being a brat again, sorry..." I feel my voice getting quiet.</p>
+
+                <p>"No, I'm not trying to lecture you," Nick starts clicking his tongue as he tries to think, as his eyes glance thoughtfully to the side. He doesn't look uncomfortable. Not reprimanding, either. He looks apologetic, more than anything, maybe for giving me anything to latch onto with his griping.</p></p>
+
+                                <p>Things fall apart fast. When you're stubbornly wearing those old shoes, driving that old car, or even just trying to keep people together, it always breaks down right before you expect it.</p>
+
+                <p>You'd think that you wouldn't be surprised by it when it finally happens. A weird noise makes you pull over. A weird smell makes you throw it out. You'll know it's coming yet somehow you won't hear it even when it sneaks up right behind you.</p>
+
+                <p>Rumeuri fell apart fast.</p>
