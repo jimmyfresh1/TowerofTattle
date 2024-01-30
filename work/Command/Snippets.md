@@ -200,8 +200,3 @@ Sometimes the first truly adult emotion someone learns is hate.
 
                 <p>"No, I'm not trying to lecture you," Nick starts clicking his tongue as he tries to think, as his eyes glance thoughtfully to the side. He doesn't look uncomfortable. Not reprimanding, either. He looks apologetic, more than anything, maybe for giving me anything to latch onto with his griping.</p></p>
 
-                                <p>Things fall apart fast. When you're stubbornly wearing those old shoes, driving that old car, or even just trying to keep people together, it always breaks down right before you expect it.</p>
-
-                <p>You'd think that you wouldn't be surprised by it when it finally happens. A weird noise makes you pull over. A weird smell makes you throw it out. You'll know it's coming yet somehow you won't hear it even when it sneaks up right behind you.</p>
-
-                <p>Rumeuri fell apart fast.</p>
